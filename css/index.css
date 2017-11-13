@@ -1,0 +1,28 @@
+h1 {
+    color: red;
+    font-size: 30px;
+}
+
+p {
+    color: green;
+    
+}
+
+#chosen {
+  font-weight: bold;
+  
+}
+
+.em {
+    font-style: italic;
+}
+
+#chosen, .em {
+    border: 1px dashed red;
+    
+}
+
+article p {
+    color: blue;
+    
+}
